@@ -15,8 +15,3 @@ svmPlusModel.mat % Non-optimized SVM+ Model
 
 svmModel.mat % SVM Model
 
-GOP_LUPI.m  % GOP_LUPI (Grid Optimizer Parallel) Optimizer SMV+ parameters
-
-FOM_LUPI.m  % FOM_LUPI(Features Optimized Model for LUPI) Fitness Function
-
-a5_featuresPI.m % Matlab Script to get PI for samples
